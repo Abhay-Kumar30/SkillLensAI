@@ -16,7 +16,6 @@ This project integrates **Google Gemini AI** for resume analysis and includes se
 - Frontend: HTML, CSS, React.js  
 - Backend: Spring Boot  
 - Database: MySQL
-- 
 
 ## Frontend & Backend Integration Notes
 
