@@ -3,8 +3,8 @@
 
 ## Description
 
-• Designed and developed a scalable full-stack web application for AI-based resume analysis and evaluation
-• Built RESTful APIs using Spring Boot to handle resume uploads, user management, and analysis workflows
+-Designed and developed a scalable full-stack web application for AI-based resume analysis and evaluation
+-Built RESTful APIs using Spring Boot to handle resume uploads, user management, and analysis workflows
 • Integrated Google Gemini AI to extract skills, analyze resume content, and generate intelligent improvement suggestions
 • Implemented JWT-based authentication, email verification, and secure password reset flows using Brevo
 • Developed responsive and reusable React components for seamless user interaction and real-time insights
